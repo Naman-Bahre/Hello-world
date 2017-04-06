@@ -1,1 +1,3 @@
 # Hello-world
+
+hi humans i am learning the code first time...
